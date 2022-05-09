@@ -50,5 +50,11 @@
 
 - En configuracion vamos a sistema y en orden de arranque, desseleccionamos optica y disquete, que solo quede seleccionado Disco duro.
 - Arrancamos la maquina otra vez.
+- Ejecutamos el comando "vi /etc/ssh/sshd_config".
+- Nos situamos en la linea 23 que la modificamos a yes.
+- Restablecemos el sshd y pedimos la ip.
+- Ejecutamos "vi /etc/apk/repositories" y borramos todos los hastags.
+- Finalmente ejecutamos "apk add docker" y se descargará.
+ 
 
 
