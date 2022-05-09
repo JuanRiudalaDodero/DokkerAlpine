@@ -2,8 +2,8 @@
 
 - Entras en la pagina oficial de Alpine Linux.
 - Te diriges al apartado de descargas.
-- Bajas hasta el final de la pagina y en el que pone virtual eliges la opccion de x86_64.
-<img src="alp1.png" />
+- Arriba de la pagina en el que pone standard eliges la opccion de x86_64.
+<img src="apl1.png" />
 
 - Creamos una maquina virtual
 <img src="alp2.png" />
