@@ -23,9 +23,14 @@
 - Iniciamos.
 <img src="alp6.png" />
 
-
-
+- Nos pedira usuario la loguearnos.
+- Nos logueamos como root.
 <img src="alp7.png" />
+
+- Ejecutamos el comando setup-alpine
+- Seleccionamos la distribucion del teclado "es" y luego "es_cat" 
 <img src="alp8.png" />
+
+
 <img src="alp9.png" />
 <img src="alp10.png" />
