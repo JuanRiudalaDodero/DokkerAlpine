@@ -27,10 +27,28 @@
 - Nos logueamos como root.
 <img src="alp7.png" />
 
-- Ejecutamos el comando setup-alpine
+- Ejecutamos el comando setup-alpine.
 - Seleccionamos la distribucion del teclado "es" y luego "es_cat" 
 <img src="alp8.png" />
 
-
+- Entramos como node1.
+- Pulsamos enter hasta que nos pina nueva contraseña.
+- Ponemos contraseña.
 <img src="alp9.png" />
+
+- Le ponemos zona horaria GTM que es la española.
+- Pulsamos enter para dejar ajustes por defecto.
 <img src="alp10.png" />
+
+- Cuando nos pida disco le decimos que quermos usar el sda.
+- Cuando te pida el tipo indicas sys.
+- Pones y para confirmar.
+- Una vez descargado apagamos la maquina.
+<img src="alp11.png" />
+- Cambiamos la red a adaptador puente para tener red en la maquina.
+<img src="alp12.png" />
+
+- En configuracion vamos a sistema y en orden de arranque, desseleccionamos optica y disquete, que solo quede seleccionado Disco duro.
+- Arrancamos la maquina otra vez.
+
+
