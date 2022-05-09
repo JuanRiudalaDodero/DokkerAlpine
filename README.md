@@ -53,6 +53,8 @@
 - Ejecutamos el comando "vi /etc/ssh/sshd_config".
 - Nos situamos en la linea 23 que la modificamos a yes.
 - Restablecemos el sshd y pedimos la ip.
+
+- Nos girigimos a git bash.
 - Ejecutamos "vi /etc/apk/repositories" y borramos todos los hastags.
 - Finalmente ejecutamos "apk add docker" y se descargará.
  
